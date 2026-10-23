@@ -1,7 +1,7 @@
 # Awesome Identic Agents [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A collection of projects surrounding **Identic Agents**. Agents that have
-> have persistent identities that can evolve as they interact with the world
+> persistent identities that can evolve as they interact with the world
 
 ## Agents
 
